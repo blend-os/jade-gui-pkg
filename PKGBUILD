@@ -20,6 +20,6 @@ build() {
 }
 
 package() {
-    cd "jade-gui"
+    cd "jade-gui/_build"
     DESTDIR="${pkgdir}" ninja install
 }
