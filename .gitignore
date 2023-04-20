@@ -1,5 +1,6 @@
 *
 
 !.gitignore
+!installer-autostart.desktop
 !PKGBUILD
 !.SRCINFO

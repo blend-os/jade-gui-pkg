@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Install blendOS
+Exec=bash -c "sleep 2; jade-gui"
+Icon=al.getcryst.jadegui
+Terminal=false
+Type=Application
+X-GNOME-Autostart-enabled=true
