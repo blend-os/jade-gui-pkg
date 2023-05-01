@@ -2,7 +2,7 @@
 # Original maintainer: Crystal Linux Distribution Team <distribution@lists.getcryst.al>
 
 pkgname=jade-gui
-pkgver=1.9.3
+pkgver=1.9.4
 pkgrel=1
 pkgdesc='Libadwaita based GUI front-end for blend-inst'
 license=('GPL3')
