@@ -10,7 +10,7 @@ arch=('x86_64' 'aarch64')
 url="https://github.com/blend-os/jade-gui"
 depends=('blend-inst' 'openssl' 'libadwaita' 'python-pytz' 'gparted' 'vte4' 'gtksourceview5' 'python-tzlocal' 'python-requests' 'reflector')
 makedepends=('meson' 'ninja' 'desktop-file-utils' 'appstream-glib' 'gtk4')
-source=("git+${url}.git"
+source=("git+file://[BASE_ASSEMBLE_PATH]/projects/jade-gui"
         "installer-autostart.desktop")
 sha256sums=('SKIP'
             'SKIP')
